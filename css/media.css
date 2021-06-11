@@ -1,0 +1,1363 @@
+/*==========  Desktop First Method  ==========*/
+@media (min-width: 1600px){
+
+}
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1300px) {
+
+}
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1199px) {
+    .skidkiWrap.whiteBg form{
+        padding-left: 60px;
+    }
+    .topSlider .slide {
+        height: 550px;
+    }
+    .perf img {
+        width: 222px;
+        right: 35px;
+        top: -82px;
+    }
+    .topSlider .slide .title {
+        font-size: 48px;
+        width: 75%;
+    }
+    .timeWork {
+        font-size: 14px;
+    }
+    .contactHead .phone a {
+        font-size: 14px;
+    }
+    .contactHead, .headSocIco {
+        margin-left: 30px;
+    }
+    .topSlider .slide .text {
+        font-size: 14px;
+        width: 500px;
+    }
+    .skidkiWrap {
+        padding-left: 300px;
+    }
+    .procentWrap>img, .skidkiWrap form input[type="text"] {
+        width: 200px;
+    }
+    .skidkiWrap form input[type="submit"]{
+        width: 150px;
+    }
+    .procent {
+        width: 100px;
+        height: 100px;
+        line-height: 100px;
+        font-size: 40px;
+        top: 35px;
+        left: 129px;
+    }
+    .procentBorder {
+        top: 25px;
+        left: 118px;
+        width: 123px;
+        height: 123px;
+    }
+    .firstImg {
+        width: 47%;
+    }
+    .secondImg img {
+        width: 110px;
+    }
+    .whiteBg form input[type="submit"] {
+        width: 130px;
+    }
+    .desing .whiteBg p, .desing .whiteBg h2, .desing .whiteBg form {
+        padding-left: 60px;
+    }
+    .footer .city, .footer .number {
+        font-size: 12px;
+    }
+    .footer .number a {
+        font-size: 15px;
+    }
+    footer {
+        height: 175px;
+        background-size: cover;
+    }
+    .footImg {
+        top: -180px;
+    }
+    .skidkiWrap.whiteBg {
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 991px) {
+    .topSlider .slide .title {
+        font-size: 35px;
+    }
+    .topSlider .slide {
+        height: 500px;
+    }
+    .btnRedShadow {
+        width: 273px;
+        height: 61px;
+        font-size: 19px;
+        line-height: 59px;
+    }
+    .topSlider .slide .text{
+        width: 50%;
+    }
+    .topSlider .slide{
+        height: 550px;
+    }
+    .indexForm form input[type="text"] {
+        width: 94%;
+        margin: 0 20px 15px;
+    }
+    .new p {
+        font-size: 14px;
+    }
+    .blackBtn {
+        width: 250px;
+        height: 60px;
+        font-size: 18px;
+        line-height: 60px;
+    }
+    header nav{
+        display: none;
+    }
+    .menu-btn{
+        display: block;
+    }
+    .headSocIco {
+        float: right;
+        padding-right: 70px;
+    }
+    header .container {
+        width: 100%;
+        padding: 0 20px;
+    }
+    .skidkiWrap {
+        padding-left: 0;
+    }
+    .skidkiWrap h2,
+    .skidkiWrap p{
+        padding-left: 300px;
+    }
+    .procentWrap>img {
+        top: -76px;
+        left: 9px;
+    }
+    .skidkiForm {
+        padding: 20px 0 60px;
+    }
+    .skidkiWrap form input[type="text"] {
+        width: 270px;
+    }
+    .secondImg .img,
+    .firstImg{
+        height: auto;
+    }
+    .secondImg {
+        float: none;
+        margin-left: 5px;
+        margin-right: 0;
+    }
+    .secondImg .img {
+        height: auto;
+        width: 110px;
+        display: inline-block;
+    }
+    .secondImg img {
+        width: 100px;
+    }
+    .handImg{
+        display: none;
+    }
+    .firstImg {
+        position: relative;
+        z-index: 2;
+    }
+    .skidkiForm {
+        margin-bottom: 30px;
+    }
+    .descTovar {
+        position: absolute;
+        right: 35px;
+        top: 0;
+        z-index: 1;
+        margin-top: 70px;
+    }
+    .whiteBg {
+        width: 100%;
+    }
+    .skidkiWrap.whiteBg h2, .skidkiWrap.whiteBg p, .skidkiWrap.whiteBg form {
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+    .skidkiWrap.whiteBg form input[type="text"] {
+        width: 240px;
+    }
+    .skidki .advantagesItem{
+        padding: 30px 0px;
+    }
+    .verticalTabs .title {
+        font-size: 17px;
+        width: 149px;
+        margin-top: 20px;
+    }
+    #tabs-contents {
+        margin-top: -130px;
+    }
+    #tabs-titles li{
+        padding-left: 30px;
+    }
+    .desing .procentWrap>img{
+        display: none;
+    }
+    .desing .whiteBg{
+        width: 100%;
+    }
+    .desing .procentWrap {
+        position: relative;
+        left: -66px;
+        top: -10px;
+    }
+    .desing .skidkiWrap.whiteBg h2, .desing .skidkiWrap.whiteBg p{
+        padding-left: 200px;
+    }
+    .procentWrap .procent img {
+        top: -12px;
+        left: 1px;
+    }
+    .perf {
+        padding: 50px 40px 0;
+    }
+    .perf img {
+        width: 260px;
+        position: relative;
+
+        right: -12px;
+        top: -104px;
+
+        float: right;
+        display: inline-block;
+    }
+    .gaz p, .gaz .title {
+        margin-left: 68%;
+    }
+    .gaz img {
+        position: absolute;
+        width: 200px;
+        bottom: -60px;
+        left: 40px;
+    }
+    .sertificate p{
+        float: none;
+    }
+    .sertificateCont {
+        margin-top: -5px;
+        width: 42%;
+        display: inline-block;
+    }
+    .footImg {
+        top: -140px;
+    }
+    .footer .city, .footer .number {
+        margin-top: 20px;
+    }
+    .page .btnRedShadow {
+        margin: 0 auto;
+    }
+    .topSlider .owl-prev {
+        left: 10px;
+    }
+    .topSlider .owl-next {
+        right: 10px;
+    }
+    .firstImg{
+        z-index: 1;
+    }
+    .popup .skidkiWrap p {
+        font-size: 28px;
+    }
+    .popup .popup_form.skidkiWrap p.small{
+        font-size: 16px;
+    }
+    .owl-carouselSlider .slide .img a, .new .owl-item>div> a, .tabSlider .img a {
+        height: auto;
+    }
+    .tabSlider1 .owl-dots {
+        margin-top: 30px;
+    }
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+    .gaz p, .gaz .title {
+        margin-left: 20%;
+    }
+    .topSlider .slide {
+        height: 400px;
+    }
+    .topSlider .slide .text span {
+        font-size: 23px;
+        line-height: 1.2;
+        margin-bottom: 0px;
+        display: block;
+    }
+    .sertificateCont .text {
+        width: 48%;
+    }
+    .skidkiWrap h2, .skidkiWrap p {
+        padding-left: 0;
+    }
+    .headSocIco {
+        display: none;
+    }
+    .imgInSlide,
+    .page.topSlider .imgInSlide{
+        right: 27%;
+        left: 47%;
+        width: 39%;
+    }
+    .contactHead, .headSocIco {
+        margin-left: 30px;
+        margin-right: 60px;
+    }
+    /*.topSlider .slide .title{*/
+    /*    text-align: center;*/
+    /*    margin-top: 20px;*/
+    /*    width: 100%;*/
+    /*}*/
+    /*.topSlider .slide {*/
+    /*    padding-top: 0px;*/
+    /*}*/
+    /*.imgInSlide.slide2 {*/
+    /*    width: 57%;*/
+    /*    left: 22%;*/
+    /*    top: -53px;*/
+    /*}*/
+    /*.topSlider .slide .text{*/
+    /*    width: 100%;*/
+    /*    text-align: center;*/
+    /*    padding: 0 40px;*/
+    /*}*/
+    /*.imgInSlide.slide3{*/
+    /*    left:40px;*/
+    /*}*/
+    /*.btnRedShadow{*/
+    /*    margin:0 auto;*/
+    /*}*/
+    .indexForm {
+        padding: 60px 15px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .indexForm form input[type="text"] {
+        width: 90%;
+        margin: 0 auto 15px;
+    }
+    .nev .item{
+        width: 50%;
+    }
+    .tabs2{
+        margin-bottom: 15px;
+    }
+    .descTovar span{
+        display: block;
+        text-align: center;
+        font-size: 16px;
+        color: #000;
+        margin-bottom: 10px;
+    }
+    .descTovar span:hover{
+        color: #EA0000;
+    }
+    .descTovarWrap{
+        display: none;
+    }
+    .tabSlider1 .owl-stage-outer {
+        height: 153px !important;
+    }
+    img.mobile{
+        margin-top: 30px;
+    }
+    .tabSlider1 {
+        height: 182px;
+    }
+    .tabSlider {
+        margin-top: 20px;
+    }
+    .advantagesItem {
+        margin-bottom: 0;
+        background-color: rgb(255, 255, 255);
+        box-shadow: 0px 30px 87px 0px rgba(31, 37, 69, 0.15);
+        padding: 20px 15px;
+        width: 100%;
+        margin-bottom: 0px;
+    }
+    .advantagesItem img {
+        float: left;
+        display: block !important;
+        margin-bottom: 30px;
+        height: 60px;
+    }
+    .advantagesItem .title,
+    .advantagesItem p {
+        padding-left: 70px;
+    }
+    .advantagesItem .title {
+        font-size: 17px;
+        color: rgb(0, 0, 0);
+        font-weight: bold;
+        line-height: 1.2;
+        margin-bottom: 0px;
+    }
+    .procentWrap>img {
+        display: none;
+    }
+    .skidkiWrap h2 {
+        padding-left: 150px;
+        margin-bottom: 39px;
+        margin-top: 27px;
+        font-size: 30px;
+    }
+    .procentWrap {
+        position: relative;
+        top: -22px;
+        left: -114px;
+    }
+    .skidkiWrap p {
+        font-size: 22px;
+    }
+    .skidkiWrap form input[type="text"] {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+    .skidkiWrap form input[type="submit"] {
+        width: 150px;
+        margin: 0 auto;
+        display: block;
+    }
+    .contTovar {
+        position: relative;
+        margin-bottom: 0px;
+        padding: 0 13%;
+    }
+    .firstImg {
+        width: 100%;
+    }
+    .secondImg {
+        display: block;
+        margin-right: 0;
+        margin-left: 10px;
+    }
+    .secondImg .img {
+        width: 32%;
+        display: inline-block;
+        overflow: hidden;
+    }
+    .secondImg img {
+        width: 90%;
+        margin: 0 auto;
+        display: block;
+    }
+    .skidkiForm {
+        margin-bottom: 30px;
+    }
+    .examples {
+        padding-top: 30px;
+    }
+    .skidkiWrap p {
+        font-size: 14px;
+        margin-top: 53px;
+        margin-bottom: 20px;
+    }
+    .desing .skidkiWrap.whiteBg h2 {
+        padding-left: 180px;
+        font-size: 31px;
+        padding-top: 20px;
+    }
+    .advantages .new {
+        margin-top: 30px;
+    }
+    .advantages {
+        padding: 30px 0 0px;
+        background-size: cover;
+    }
+    .whiteBg.popup_form {
+        width: 100%;
+    }
+    .perf {
+        padding: 80px 40px 0;
+    }
+    .perf img {
+        width: 180px;
+    }
+    .sertificate p {
+        float: left;
+    }
+    .sertificateSlider {
+        float: left;
+        width: 50%;
+        margin-top: 0px;
+    }
+    .sertificateSlider .owl-dots {
+        position: absolute;
+        top: 93%;
+        right: 39%;
+    }
+    .gaz p, .gaz .title {
+        margin-left: 44%;
+        width: 50%;
+        margin-right: 0;
+    }
+    .skidkiForm {
+        padding: 20px 0 30px;
+        margin-bottom: 0;
+    }
+    .gaz img {
+        width: 140px;
+    }
+    .descTovar {
+        width: 100%;
+        margin: 0 0 0;
+        height: auto;
+        display: inline-block;
+        right: 0;
+        padding: 28px 55px 40px 40px;
+        position: relative;
+    }
+    .firstImg img {
+        width: 100%;
+        height: auto;
+        margin: 0 auto;
+        display: block;
+    }
+    .skidka {
+        z-index: 5;
+    }
+    .owl-prev {
+        left: -10px;
+    }
+    .owl-next {
+        right: -10px;
+    }
+    .skidkiWrap.whiteBg form input[type="text"] {
+        width: 100%;
+    }
+    .skidki .advantages .container{
+        background-color: #171a2e;
+        /* padding: 20px; */
+        margin: 20px;
+    }
+    .sectionTitle {
+        font-size: 17px;
+        padding: 0 5px;
+    }
+    #tabs-titles {
+        width: 100%;
+        float: none;
+        margin-right: 10px;
+        list-style: none;
+    }
+    #tabs-contents {
+        margin-top: 0px;
+        width: 100%;
+        float: none;
+    }
+    #tabs-titles li{
+        font-size: 16px;
+    }
+    .verticalTabs .title {
+        font-size: 23px;
+        width: 100%;
+        margin-top: 20px;
+    }
+    .skidki {
+        padding-bottom: 0;
+    }
+    .desing .skidkiWrap.whiteBg p{
+        padding-left: 40px;
+    }
+    .skidkiWrap.whiteBg{
+        padding-top: 0px;
+    }
+    .sertificateCont {
+        margin-top: -5px;
+        width: 100%;
+        display: block;
+    }
+    footer {
+        margin-top: 50px;
+    }
+    .footer .city, .footer .number {
+        margin-top: 20px;
+        text-align: center;
+        font-size: 16px;
+    }
+    .footer .city{
+        margin-top: 2px;
+    }
+    .footImg img {
+        width: 330px;
+    }
+    .popup .skidkiWrap p {
+        padding-top: 15px;
+    }
+    .popup .skidkiWrap p.small{
+        padding-top: 0;
+    }
+    .imgInSlide.slide3 {
+        width: 182px;
+        /* left: 40%; */
+        margin-top: -11px;
+        margin-left: -85px;
+        left: 70%;
+    }
+
+
+    footer {
+        height: 215px;
+        background-size: cover;
+    }
+    .create {
+        margin-top: 113px;
+    }
+    .sertificateCont {
+        margin-top: 12px;
+        width: 100%;
+        display: block;
+    }
+    .svetilnik.popup_form img {
+        width: 191px;
+        display: block;
+        margin: 18px auto -66px;
+    }
+    .popup_form img {
+        margin: -36px auto -86px;
+    }
+}
+
+@media only screen and (max-width : 600px) {
+    .imgInSlide {
+        right: 27%;
+        left: 24%;
+        width: 51%;
+    }
+    .imgInSlide.slide4 {
+        right: 0%;
+        width: 320px;
+        left: 50%;
+        margin-left: -160px;
+    }
+    .imgInSlide,
+    .page.topSlider .imgInSlide{
+        right: 27%;
+        left: 33%;
+        width: 309px;
+        margin-left: -125px;
+        bottom: 73px;
+        top: auto;
+    }
+    .topSlider .slide {
+        height: 630px;
+        padding-top: 0px;
+    }
+    .topSlider .slide .text {
+        width: 100%;
+        text-align: center;
+        padding: 0 0px;
+        font-size: 23px;
+    }
+    .topSlider .slide .title{
+        text-align: center;
+        margin: 0 auto;
+    }
+    .owl-carouselIndex .btnRedShadow{
+        margin: 0 auto;
+    }.topSlider .slide {
+         height: 630px;
+         padding-top: 20px;
+     }
+    .imgInSlide.slide2 {
+        width: 300px;
+        top: auto;
+        left: 50%;
+        margin-left: -150px;
+        bottom: 99px;
+    }
+    .topSlider .slide .text {
+        width: 100%;
+        text-align: center;
+        padding: 0 0px;
+    }
+    .imgInSlide.slide5 {
+        width: 44%;
+        left: 50%;
+    }
+    /*.imgInSlide.slide4 {*/
+    /*    right: 0%;*/
+    /*    width: 96%;*/
+    /*    left: 35%;*/
+    /*}*/
+    .imgInSlide.slide3 {
+        width: 189px;
+        left: 50%;
+        margin-left: -83px;
+        margin-top: -20px;
+    }
+    .imgInSlide,
+    .page.topSlider .imgInSlide{
+        right: 27%;
+        left: 33%;
+        width: 309px;
+        margin-left: -125px;
+        bottom: 60px;
+        top: auto;
+    }
+    .topSlider .slide .text {
+        font-size: 23px;
+    }
+    .topSlider .slide .text span {
+        margin-bottom: 3px;
+    }
+    /*.imgInSlide.slide2 {*/
+    /*    width: 64%;*/
+    /*    top: -31px;*/
+    /*    left: 19%;*/
+    /*}*/
+    .footer .city{
+        margin-top: 50px;
+    }
+    .create {
+        margin-top: 165px;
+    }
+    footer {
+        height: 280px;
+    }
+}
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+    .sertificate p {
+        float: none;
+        width: 100%;
+    }
+    .shinoprovod.popup_form img {
+        width: 80%;
+    }
+    .mobile{
+        display: block;
+    }
+    .animation_car8{
+        animation-name: slideRight;
+        -webkit-animation-name: slideRight;
+
+        animation-duration: 2s;
+        -webkit-animation-duration: 2s;
+
+        animation-timing-function: ease-in-out;
+        -webkit-animation-timing-function: ease-in-out;
+
+        visibility: visible !important;
+    }
+
+    @keyframes slideRight {
+        0% {
+            transform: translateX(-150%);
+        }
+        50%{
+            transform: translateX(8%);
+        }
+        65%{
+            transform: translateX(-4%);
+        }
+        80%{
+            transform: translateX(4%);
+        }
+        95%{
+            transform: translateX(-2%);
+        }
+        100% {
+            transform: translateX(0%);
+        }
+    }
+
+    @-webkit-keyframes slideRight {
+        0% {
+            -webkit-transform: translateX(-150%);
+        }
+        50%{
+            -webkit-transform: translateX(8%);
+        }
+        65%{
+            -webkit-transform: translateX(-4%);
+        }
+        80%{
+            -webkit-transform: translateX(4%);
+        }
+        95%{
+            -webkit-transform: translateX(-2%);
+        }
+        100% {
+            -webkit-transform: translateX(0%);
+        }
+    }
+    .animate3{
+        visibility: hidden;
+    }
+    .skidkiWrap p {
+        font-size: 14px;
+        margin-top: 53px;
+        margin-bottom: 20px;
+    }
+    .procent.desc{
+        display: none;
+    }
+    .procent.mob{
+        display: block;
+        box-shadow: none;
+        background-color: transparent;
+    }
+    .lightbox, .lightboxOverlay {
+        position: fixed;
+    }
+    .lightbox{
+        top: 100px !important;
+    }
+    .svetilnik.popup_form img {
+        margin: 18px auto -32px;
+    }
+    .secondImg img {
+    height: auto;
+}
+    .perf img {
+        right: 20px;
+    }
+
+    .bottomLine .btnBlueImg {
+        top: 460px;
+    }
+    .bottomLine .btnRedImg {
+        top: 515px;
+    }
+    .whiteBg.popup_form {
+        width: 150%;
+        margin-left: -7%;
+    }
+    .footImg img {
+         width: 250px;
+     }
+    .contactHead, .headSocIco {
+        margin-right: 0px;
+    }
+    .instrument p {
+        width: 160px;
+    }
+    .perf img {
+        width: 126px;
+    }
+    .gaz img {
+        width: 100px;
+        bottom: -11px;
+        /* margin-top: -20px; */
+    }
+    .sertificateSlider {
+        float: none;
+        width: 100%;
+        margin-top: 0px;
+    }
+    .footImg {
+        top: -98px;
+    }
+    footer {
+        height: 350px;
+    }
+    .create a {
+        width: 138px;
+        display: block;
+    }
+    .topSlider .slide {
+        height: 630px;
+        padding-top: 0px;
+    }
+    .page.topSlider .slide {
+        height: 540px;
+        padding-top: 0px;
+    }
+    .imgInSlide.slide2 {
+        width: 200px;
+        top: auto;
+        left: 65%;
+        margin-left: -150px;
+        bottom: 169px;
+    }
+    .topSlider .slide .text {
+        width: 100%;
+        text-align: center;
+        padding: 0 0px;
+    }
+    .imgInSlide.slide5 {
+        width: 88%;
+        left: 52%;
+    }
+    /*.imgInSlide.slide4 {*/
+    /*    right: 0%;*/
+    /*    width: 96%;*/
+    /*    left: 35%;*/
+    /*}*/
+    .topSlider .slide .title {
+        font-size: 24px;
+        margin-top: 30px;
+    }
+    .imgInSlide.slide3 {
+        width: 217px;
+        left: 46%;
+        margin-left: -83px;
+        margin-top: -20px;
+    }
+    .imgInSlide,
+    .page.topSlider .imgInSlide{
+        right: 27%;
+        left: 33%;
+        width: 360px;
+        margin-left: -125px;
+        bottom: 73px;
+        top: auto;
+    }
+    .page.topSlider .imgInSlide{
+        bottom: 0;
+    }
+    .topSlider .slide .text {
+        font-size: 23px;
+    }
+    .topSlider .slide .text span {
+        margin-bottom: 3px;
+    }
+    .secondImg {
+        display: block;
+        margin-right: 0;
+        margin-left: 7px;
+    }
+    .topSlider .slide .text,
+    .topSlider .slide .text span{
+        font-size: 16px;
+    }
+    .headLogo {
+        display: block;
+        margin-top: 27px;
+        float: left;
+    }
+    .headSocIco,
+    .timeWork{
+        display: none;
+    }
+    .contactHead .phone {
+        float: none;
+        margin-top: 23px;
+        margin-left: 48px;
+    }
+    .contactHead{
+        float: none;
+    }
+    .contTovar {
+        padding: 0 3%;
+    }
+    .skidkiForm.desing .skidkiWrap,
+    .skidkiForm .skidkiWrap.whiteBg{
+        padding-right: 20px;
+    }
+    .instrument p {
+        font-size: 12px;
+    }
+    .perf {
+        padding: 80px 15px 0;
+    }
+    .procent {
+        width: 80px;
+        line-height: 80px;
+        height: 80px;
+    }
+    .procentBorder {
+        width: 103px;
+        height: 101px;
+    }
+    .procentWrap .procent img {
+        top: -7px;
+        left: 0px;
+        width: 40px;
+    }
+    .procentWrap .procent.mob img {
+        top: -28px;
+        left: -21px;
+        width: 121px;
+    }
+    .procentWrap .procent.mob.kar img {
+        top: -28px;
+        left: -34px;
+        width: 154px;
+    }
+    .rewievsSlider .name {
+        margin-left: 8px;
+    }
+    .rewievsSlider .text {
+        font-size: 12px;
+        margin-left: 8px;
+        padding-right: 6px;
+    }
+    .desing .procentWrap {
+        left: -114px;
+    }
+    .fixed-bottom{
+        display: block;
+    }
+    .contactHead{
+        display: none;
+    }
+    .desing .skidkiWrap.whiteBg h2 {
+        padding-left: 107px;
+        font-size: 23px;
+        padding-top: 0px;
+    }
+    .whiteBg.popup_form {
+        width: auto;
+        margin-left: auto;
+        box-shadow: none;
+    }
+    .fancybox-content{
+        padding: 15px;
+    }
+    .sertificateSlider.owl-carousel .owl-item img {
+        width: 85%;
+    }
+    .sertificateCont .text {
+        width: auto;
+    }
+    .sertificateSlider .owl-dots {
+        position: absolute;
+        top: 84%;
+        right: auto;
+        left: 50%;
+        margin-top: 40px;
+        margin-left: -62px;
+    }
+    .tabSlider1 .owl-dots{
+        margin-top: 0px;
+    }
+    .skidki .advantages .container {
+        margin:0;
+    }
+    .tabs li:after {
+    margin: 0px 1px;
+}
+    .tabs li a {
+        margin: 2px 0 3px;
+        font-size: 14px;
+    }
+    .tabs {
+        display: block;
+        list-style: none;
+        align-items: start;
+        justify-content: space-between;
+        margin-top: 50px;
+        text-align: center;
+    }
+    .sertificateSlider {
+        float: left;
+        width: 40%;
+        margin-top: 0px;
+        margin-right: 19px;
+    }
+    .sertificateCont {
+        margin-top: 21px;
+        width: 100%;
+        display: block;
+    }
+    .skidkiWrap{
+        padding-right: 20px;
+    }
+    .skidkiForm{
+        margin-bottom: 30px !important;
+    }
+    .desing .skidkiWrap.whiteBg p, .skidkiWrap.whiteBg h2, .skidkiWrap.whiteBg p, .skidkiWrap.whiteBg form {
+        padding-left: 20px;
+    }
+    .skidkiWrap form input[type="text"] {
+        margin-right: 0;
+    }
+    .skidkiForm .skidkiWrap{
+        padding-right: 0;
+    }
+    .skidkiWrap h2 {
+        padding-left: 131px;
+        margin-bottom: 39px;
+        margin-top: 1px;
+        font-size: 25px;
+    }
+    .headLogo img {
+        width: 96px;
+    }
+    .owl-carousel .owl-item .imgInSlide img,
+    .imgInSlide img{
+        width: 85%;
+        height: auto;
+        margin: auto;
+        padding: auto;
+    }
+    .owl-carousel .owl-item .imgInSlide.slide2 img {
+        width: 108%;
+    }
+    .owl-carousel .owl-item .imgInSlide.slide3 img {
+        width: 100%;
+    }
+    .phone a:last-child{
+        display: none;
+    }
+    .headSocIco{
+        display: block;
+        margin: 0 0 0;
+        position: absolute;
+        left: 140px;
+        top: 0px;
+    }
+    .skidkiWrap.whiteBg h2{
+        margin-top: 19px;
+        margin-bottom: 30px;
+    }
+    .create {
+        margin-top: 185px;
+    }
+    .create a {
+        width: 207px;
+        display: block;
+    }
+    .create a img {
+        margin-bottom: 4px;
+        display: block;
+        margin-right: 8px;
+    }
+    .headSocIco {
+        display: block;
+        margin: 0 0 0;
+        position: absolute;
+        left: 50%;
+        top: 0px;
+        margin-left: -25px;
+    }
+    .owl-carouselSlider .slide .img a, .new .owl-item>div> a, .tabSlider .img a{
+        height: auto;
+    }
+    .footBtn {
+        position: absolute;
+        top: -51px;
+        right: 28px;
+    }
+    .number p{
+        font-size: 12px;
+    }
+    .footer .city {
+        width: 50%;
+    }
+    .create {
+        margin-top: 102px;
+        right: 16px;
+        position: absolute;
+    }
+    .create a img{
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .create a {
+        width: auto;
+        display: block;
+    }
+}
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 375px) {
+    .perf img {
+        right: 0;
+    }
+    .skidkiWrap p {
+        font-size: 14px;
+        margin-top: 0px;
+        margin-bottom: 20px;
+    }
+    .popup_form img {
+        margin: -36px auto -44px;
+        width: 100%;
+    }
+
+}
+
+
+/*==========  Mobile First Method  ==========*/
+
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {
+.secondImg img {
+    width: 90%;
+    margin: 0 auto;
+    display: block;
+    height: 80px;
+}
+.descTovar .name {
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 5px;
+    width: 215px;
+}
+.descTovar {
+    right: 0;
+    padding: 15px 50px 15px 40px;
+    position: relative;
+}
+.owl-carouselExample {
+    margin-top: 10px;
+}
+.examples {
+    margin-bottom: 20px;
+}
+.owl-carousel .owl-dots {
+    text-align: center;
+    margin-top: 10px;
+}
+.catalogSlider {
+    margin-bottom: 20px;
+}
+.verticalTabs {
+    margin-bottom: 30px;
+}
+}
+
+
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px) {
+.secondImg img {
+    width: 90%;
+    margin: 0 auto;
+    display: block;
+    height: 80px;
+}	.descTovar .name {
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 5px;
+    width: 215px;
+}
+.descTovar {
+    right: 0;
+    padding: 15px 50px 15px 40px;
+    position: relative;
+}
+.owl-carouselExample {
+    margin-top: 10px;
+}
+.examples {
+    margin-bottom: 20px;
+}
+.owl-carousel .owl-dots {
+    text-align: center;
+    margin-top: 10px;
+}
+.catalogSlider {
+    margin-bottom: 20px;
+}
+.verticalTabs {
+    margin-bottom: 30px;
+}
+}
+
+
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+.catalogSlider {
+    margin-bottom: 80px;
+}
+.descTovar {
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 30px 90px 0px rgba(25, 29, 53, 0.19);
+    padding: 40px 95px 40px 44px;
+    /* float: none; */
+    position: absolute;
+    right: 0;
+    top: 50%;
+    z-index: 2;
+    margin-top: 80px;
+}
+.secondImg img {
+    width: 90%;
+    margin: 0 auto;
+    display: block;
+    height: 120px;
+}
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+.catalogSlider {
+    margin-bottom: 80px;
+}
+.descTovar {
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 30px 90px 0px rgba(25, 29, 53, 0.19);
+    padding: 40px 95px 40px 44px;
+    /* float: none; */
+    position: absolute;
+    right: 0;
+    top: 50%;
+    z-index: 2;
+    margin-top: 80px;
+}
+.secondImg img {
+    width: 90%;
+    margin: 0 auto;
+    display: block;
+    height: 120px;
+}
+}
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+    .footer .city{
+        margin-top: 60px;
+    }
+.catalogSlider {
+    margin-bottom: 80px;
+}
+.descTovar {
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 30px 90px 0px rgba(25, 29, 53, 0.19);
+    padding: 40px 95px 40px 44px;
+    /* float: none; */
+    position: absolute;
+    right: 0;
+    top: 50%;
+    z-index: 2;
+    margin-top: 80px;
+}
+.secondImg img {
+    width: 90%;
+    margin: 0 auto;
+    display: block;
+    height: 120px;
+}
+.owl-carousel .owl-dots {
+    text-align: center;
+    margin-top:0px;
+}
+}
+@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 480px){
+.copy{
+	padding-bottom:50px;
+	padding-top:20px;
+}
+}
